@@ -68,7 +68,7 @@ This course content can be accessed in 2 different ways. The first is by manuall
 
 Follow the following link which will bring you to the top level directory of this course. Then browse through the content in the order as presented. All course content is in Jupyter Notbook files with the extension *.ipynb*
 
-https://mybinder.org/v2/gh/johonea4/AIAeromechanics-Notebook/master
+https://mybinder.org/v2/gh/johonea4/AI-Aeromechanics-Notebook/master
 
 #### Access Via Manual Set-Up
 
